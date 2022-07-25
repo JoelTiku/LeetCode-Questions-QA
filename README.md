@@ -1,2 +1,2 @@
-# LeetCode-Questions-Q-A
+# LeetCode-Questions-Q&A
 Blind 75 LeetCode Questions
